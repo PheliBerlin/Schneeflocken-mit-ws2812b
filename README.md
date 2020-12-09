@@ -10,6 +10,7 @@ Nach dem Zusammenbau<br>
 Zum Schluß mit Deko<br>
 <img alt="Mit Deko" src="./Bilder/MitDecko.jpg" width="300">
 
-
 Das ganze ist skalierbar. Vier Sterne mit Deko, schon am Fenster aufgestellt.<br>
 <img alt="Vier Sterne" src="./Bilder/VierSterne.jpg" width="300">
+
+Programmiert habe ich das mit der Arduinoumgebung mit der FastLED Bibliothek, da gibt es Anleitungen massenhaft im Netz.
